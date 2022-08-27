@@ -83,7 +83,7 @@ const skills = {
           fontAwesomeClassname: "simple-icons:html5",
           style: {
             color: "#E34F26",
-          },
+          }
         },
         {
           skillName: "CSS3",
